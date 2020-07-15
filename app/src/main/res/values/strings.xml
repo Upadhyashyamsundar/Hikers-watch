@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hikers Watch</string>
+    <string name="latitude01">Latitude</string>
+    <string name="longitude01">Longitude</string>
+    <string name="hikers_watch01">Hikers Watch</string>
+    <string name="todo01">TODO</string>
+    <string name="hikerswatch08">HikersWatch</string>
+    <string name="address_nthis_is_the_address_nof_the_adress08">Address: \nThis is the Address\nOf the Adress</string>
+    <string name="latitude08">Latitude:</string>
+    <string name="longitude08">Longitude:</string>
+    <string name="accurecy08">Accurecy:</string>
+    <string name="altitude08">Altitude:</string>
+</resources>
